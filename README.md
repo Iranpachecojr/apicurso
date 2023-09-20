@@ -2,5 +2,4 @@
 Estudo voltado para construção de api com node  e js.
 
 ##fonte de estudo:
-(balta.io)[https://www.youtube.com/@baltaio]
-(Curso)[https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn]
+<a href="https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn" taget = "_blank"> Fonte </a>
